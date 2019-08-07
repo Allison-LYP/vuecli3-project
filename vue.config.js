@@ -1,4 +1,4 @@
-const test = require('./data/test.json');
+/*const test = require('./data/test.json');
 
 module.exports = {
     devServer:{
@@ -17,4 +17,4 @@ module.exports = {
             })
         }
     }
-}
+}*/

@@ -1,7 +1,7 @@
 <template>
     <div id="home">
         <!-- 轮播图 -->
-        <mt-swipe :auto="4000" id="swipe">
+        <mt-swipe :auto="2000" id="swipe">
             <mt-swipe-item class="swipe-item"><img src="../assets/images/1.jpg" alt="">1</mt-swipe-item>
             <mt-swipe-item class="swipe-item"><img src="../assets/images/2.jpeg" alt="">2</mt-swipe-item>
             <mt-swipe-item class="swipe-item"><img src="../assets/images/3.jpeg" alt="">3</mt-swipe-item>
@@ -13,7 +13,7 @@
         </mt-swipe>
         <!-- 六宫格 -->
         <ul class="grid-6">
-            <li class="grid-6-item"><router-link to="/home/news">
+            <li class="grid-6-item"><router-link to="/home/newsList">
                 <img src="../assets/images/news.png" alt="">
                 <div class="item-title">新闻资讯</div></router-link></li>
             <li class="grid-6-item"><a href="#">
@@ -79,7 +79,7 @@
     }
     .grid-6-item{
         text-align: center;
-        width: 33.2%;
+        width: 33%;
         /*margin-bottom: 20px;*/
         padding: 10px 0;
         border-right: 1px solid #ededed;

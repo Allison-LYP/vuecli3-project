@@ -77,7 +77,7 @@
     }
     .v-entry-active,
     .v-leave-active{
-        transition: all 0.5s ease;
+        transition: all 0.3s ease;
     }
     #app{
       margin-top: 40px;
