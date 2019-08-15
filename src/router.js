@@ -5,41 +5,48 @@ import memberContainer from './components/memberContainer.vue';
 import shopCarContainer from './components/shopCarContainer.vue';
 import searchContainer from './components/searchContainer.vue';
 import newsList from './components/home/newsList.vue';
+import photoList from './components/home/photoList.vue';
+import photoInfo from './components/home/photoInfo.vue';
+import goodsList from './components/home/goodsList.vue';
+import goodInfo from './components/home/goodInfo.vue';
 
 Vue.use(Router);
 
 export default new Router({
-  mode: "history",
-  base: process.env.BASE_URL,
+  mode: "hash",
+  // base: process.env.BASE_URL,
   routes: [
     {
       path: "/",
       redirect:'/home'
     },
     {
-      path: "/home",
-      name: "home",
-      component: homeContainer
+      path: "/home",component: homeContainer
     },
     {
-        path: "/member",
-        name: "member",
-        component: memberContainer
+
+        path: "/home/newsList",component: newsList
     },
     {
-        path: "/shopCar",
-        name: "shopCar",
-        component: shopCarContainer
+        path: "/home/photoList",component: photoList
     },
     {
-        path: "/search",
-        name: "search",
-        component: searchContainer
+        path: "/home/photoList/photoInfo",component: photoInfo
     },
     {
-        path: "/home/newsList",
-        name: "newsList",
-        component: newsList
+        path: "/home/goodsList",component: goodsList
+    },
+    {
+        path: "/home/goodInfo/:id",component: goodInfo
+    },
+    {
+        path: "/member",component: memberContainer
+    },
+    {
+        path: "/shopCar",component: shopCarContainer
+    },
+    {
+        path: "/search",component: searchContainer
     },
   ]
 });

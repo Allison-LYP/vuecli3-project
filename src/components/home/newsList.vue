@@ -33,14 +33,14 @@
         },
         methods:{
             getNewsLis(){  // 获取新闻列表
-                axios.get('/newsList.json')
+                axios.get('newsList.json')
                     .then( res => {
                         var data = res.data.result.list;
                         this.newsList = data;
                         console.log(data);
                     })
                     .catch( error => {
-                        Toast('获取数据失败！');
+                        Toast(error + ' 获取数据失败！');
                     })
             }
         }

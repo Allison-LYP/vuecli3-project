@@ -1,0 +1,225 @@
+{
+  "status":0,
+  "list":[
+    {
+      "id":1,
+      "productCode":"2601010128202",
+      "time":"2019年8月",
+      "des":"后置四摄：4800万（彩色，F1.8光圈）+800万（超广角）+200万（微距）+200万像素（深度），支持自动对焦（PDAF+ contrast对焦）备注：不同拍照模式的照片像素可能有差异，请以实际为准。",
+      "title":"HUAWEI nova 5i Pro 6GB+128GB 全网通版",
+      "newPrice":2099,
+      "oldPrice":2199,
+      "src":"https://res.vmallres.com/pimages//product/2601010128202/800_800_b_web1565000909988.jpg",
+      "quantity":48
+    },
+    {
+      "id":2,
+      "productCode":"6901443316373",
+      "time":"2019年8月",
+      "des":"6.39英寸（备注：显示屏采用圆角设计，按照标准矩形测量时，屏幕的对角线长度是6.39英寸（实际可视区域略小））",
+      "title":"HUAWEI nova 5 8GB+128GB 全网通版",
+      "newPrice":2599,
+      "oldPrice":2799,
+      "src":"https://res.vmallres.com/pimages//product/6901443316373/group//800_800_1561433992266.png",
+      "quantity":68
+    },
+    {
+      "id":3,
+      "productCode":"6901443293513",
+      "time":"2019年8月",
+      "des":"后置徕卡四摄 4000万像素超感光摄像头（广角，f/1.6光圈，OIS）+2000万像素超广角摄像头（f/2.2光圈）+800万像素超级变焦摄像头（f/3.4光圈，OIS）+华为Time-of-Flight（ToF）摄像头，支持自动对焦（相位对焦/反差对焦），支持AIS防抖。 备注：不同拍照模式的照片像素可能有差异，请以实际为准。",
+      "title":"HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像",
+      "newPrice":4788,
+      "oldPrice":4988,
+      "src":"https://res.vmallres.com/pimages//product/6901443293513/800_800_1555464685019mp.png",
+      "quantity":30
+    },
+    {
+      "id":4,
+      "productCode":"6901443315826",
+      "time":"2019年8月",
+      "des":"1. 平行视界，应用双屏；2. 电脑模式，支持磁吸键盘；3. GPU Turbo 3.0；4. 儿童乐园，多重智能护眼；5. 智能语音模式；6. 有线和无线投屏",
+      "title":"华为平板 M6 10.8英寸 麒麟980芯片 2K高清屏 应用分屏",
+      "newPrice":2199,
+      "oldPrice":2299,
+      "src":"https://res.vmallres.com/pimages//product/6901443315826/800_800_1560758954741mp.png",
+      "quantity":25
+    },
+    {
+      "id":5,
+      "productCode":"6901443295951",
+      "time":"2019年8月",
+      "des":"华为终端音频器控制软件V1.0",
+      "title":"HUAWEI FreeLace 无线耳机（曜石黑）",
+      "newPrice":489,
+      "oldPrice":560,
+      "src":"https://res.vmallres.com/pimages//product/6901443295951/428_428_1554964968160mp.png",
+      "quantity":100
+    },
+    {
+      "id":6,
+      "productCode":"10086632554271",
+      "time":"2019年8月",
+      "des":"音乐播放时长：>=4小时；语音通话时长：>=3小时。系统30分钟未播放音乐，自动关机；开机5分钟未配对，自动关机",
+      "title":"华为mini蓝牙音箱 nova迷你小音箱（绮境森林）",
+      "newPrice":125,
+      "oldPrice":169,
+      "src":"https://res.vmallres.com/pimages//display/10086632554271/800_800_b_web8202B797676C0452AF10C1860BD836FDE9D388840DFFABBE.jpg",
+      "quantity":58
+    },
+    {
+      "id":7,
+      "productCode":"pms_1560151939",
+      "time":"2019年8月",
+      "des":"2.5D 强化玻璃 + AF 镀膜。",
+      "title":"小米手环4 全新 AMOLED 大屏彩显",
+      "newPrice":169,
+      "oldPrice":229,
+      "src":"https://i8.mifile.cn/a1/pms_1560151939.65739073.png",
+      "quantity":30
+    },
+    {
+      "id":8,
+      "productCode":"pms_1564373279",
+      "time":"2019年8月",
+      "des":"高通首款三丛集设计：1x2.84GHz 超级大核 + 3x2.42GHz 大核 + 4x1.80GHz 小核",
+      "title":"Redmi K20 Pro 「128GB直降300」",
+      "newPrice":2499,
+      "oldPrice":2699,
+      "src":"https://i8.mifile.cn/a1/pms_1564373279.82144904.jpg",
+      "quantity":20
+    },
+    {
+      "id":9,
+      "productCode":"pms_1554108362",
+      "time":"2019年8月",
+      "des":"超大贯流风扇，使出风更强劲，实现快速制冷制热。",
+      "title":"米家互联网空调C1（一级能效）",
+      "newPrice":2299,
+      "oldPrice":2599,
+      "src":"https://i8.mifile.cn/a1/pms_1554108362.70322107.jpg",
+      "quantity":30
+    },
+    {
+      "id":10,
+      "productCode":"pms_1545975724",
+      "time":"2019年8月",
+      "des":"国标最高 A+ 级洗净能力*丨 21 种洗烘模式*丨 智能空气洗丨 烘干除菌率达 99.9%+* | BLDC 变频节能，1400 高转速丨 一级能效*",
+      "title":"米家互联网洗烘一体机10kg",
+      "newPrice":1899,
+      "oldPrice":1999,
+      "src":"https://i8.mifile.cn/a1/pms_1545975724.92496169.jpg",
+      "quantity":20
+    },
+    {
+      "id":11,
+      "productCode":"pms_1472609961",
+      "time":"2019年8月",
+      "des":"智能路径规划|大风压澎湃吸力|远程智能控制|大电池持久清扫",
+      "title":"米家扫地机器人 高精度激光测距",
+      "newPrice":1699,
+      "oldPrice":1799,
+      "src":"https://i8.mifile.cn/a1/pms_1472609961.95298675.jpg",
+      "quantity":69
+    },
+    {
+      "id":12,
+      "productCode":"pms_1563848312",
+      "time":"2019年8月",
+      "des":"4800 万拍照千元机，18 个月超长质保",
+      "title":"Redmi Note 7 Pro 红米note7",
+      "newPrice":1399,
+      "oldPrice":1599,
+      "src":"https://i8.mifile.cn/a1/pms_1563848312.48538606.jpg",
+      "quantity":85
+    },
+    {
+      "id":13,
+      "productCode":"6901443264780",
+      "time":"2019年8月",
+      "des":"后置徕卡三摄： 4000万像素（广角，f/1.8光圈）+2000万像素（超广角，f/2.2光圈）+800万像素（长焦，f/2.4光圈），支持自动对焦（激光对焦/相位对焦/反差对焦），支持AIS防抖。 备注：不同拍照模式的照片像素可能有差异，请以实际为准。",
+      "title":"HUAWEI Mate 20 RS 保时捷设计 8GB+512GB 全网通版（玄黑）",
+      "newPrice":12999,
+      "oldPrice":13100,
+      "src":"https://res.vmallres.com/pimages//product/6901443264780/800_800_1539244238246mp.png",
+      "quantity":15
+    },
+    {
+      "id":14,
+      "productCode":"6901443280063",
+      "time":"2019年8月",
+      "des":"提供1个10M/100M/1000M自适应速率的以太网接口（网口盲插）",
+      "title":"荣耀分布式路由（白色）",
+      "newPrice":699,
+      "oldPrice":899,
+      "src":"https://res.vmallres.com/pimages//product/6901443280063/800_800_1550540838052mp.png",
+      "quantity":38
+    },
+    {
+      "id":15,
+      "productCode":"6901443257911",
+      "time":"2019年8月",
+      "des":"1.真正无线双耳立体声耳机，左右耳机同时工作 ； 2.低功耗，长续航；3.通话降噪；4.无线充电（充电盒）；5.开盒自发现及快速配对；6.13mm动圈单元，半入耳式耳机；7.智能佩戴检测；8.支持双击操作；9.防尘防水；10.语音控制；11.AI识“人”， 精准交互；12.Voice ID",
+      "title":"HUAWEI FreeBuds 2 Pro无线耳机（碳晶黑）",
+      "newPrice":939,
+      "oldPrice":999,
+      "src":"https://res.vmallres.com/pimages//product/6901443257911/800_800_1554944660621mp.png",
+      "quantity":25
+    },
+    {
+      "id":16,
+      "productCode":"6901443227792",
+      "time":"2019年8月",
+      "des":"8GB LPDDR3 2133MHz（备注：因为操作系统占用的空间，可使用的内存容量小于此值）",
+      "title":"HUAWEI MateBook X Pro 13.9英寸笔记本电脑 深空灰 i5 8GB 256GB 集显",
+      "newPrice":7988,
+      "oldPrice":7999,
+      "src":"https://res.vmallres.com/pimages//product/6901443227792/800_800_1539915415114mp.png",
+      "quantity":20
+    },
+    {
+      "id":17,
+      "productCode":"6901443319084",
+      "time":"2019年8月",
+      "des":"适用范围：Matebook X Pro 2019/MateBook 13/Matebook E 2019/MateBook X Pro/MateBook X/MateBook E",
+      "title":"HUAWEI 内胆包（灰色）",
+      "newPrice":99,
+      "oldPrice":129,
+      "src":"https://res.vmallres.com/pimages//product/6901443319084/800_800_1560734999154mp.png",
+      "quantity":90
+    },
+    {
+      "id":18,
+      "productCode":"6901443303236",
+      "time":"2019年8月",
+      "des":"HUAWEI 蓝牙鼠标，金属质感，金属滚轮，支持 TOG（Track on Glass），可以在绝大部分玻璃面上直接使用，定位快速精准。",
+      "title":"HUAWEI 蓝牙鼠标（灰色）",
+      "newPrice":179,
+      "oldPrice":199,
+      "src":"https://res.vmallres.com/pimages//product/6901443303236/800_800_1557135438924mp.png",
+      "quantity":55
+    },
+    {
+      "id":19,
+      "productCode":"6901443232413",
+      "time":"2019年8月",
+      "des":"1600万（彩色）像素＋2400万（黑白）像素，f/1.8光圈，支持自动对焦（深度对焦/相位对焦/反差对焦）；备注：不同拍照模式的照片像素可能有差异，请以实际为准。",
+      "title":"荣耀10 GT游戏加速 AIS手持夜景 AI摄影手机",
+      "newPrice":1799,
+      "oldPrice":2399,
+      "src":"https://res.vmallres.com/pimages//product/6901443232413/800_800_1554948115791mp.png",
+      "quantity":66
+    },
+    {
+      "id":20,
+      "productCode":"6901443304349",
+      "time":"2019年8月",
+      "des":"4800万像素（f/1.8光圈 AF）+1600万像素（f/2.2光圈 FF）+200万像素（f/2.4光圈 FF）+200万像素（f/2.4光圈 FF），支持自动对焦（相位对焦/反差对焦）。",
+      "title":"荣耀20 4800万超广角AI四摄 3200W美颜自拍",
+      "newPrice":2699,
+      "oldPrice":2899,
+      "src":"https://res.vmallres.com/pimages//product/6901443304349/800_800_1558245073712mp.png",
+      "quantity":48
+    }
+  ]
+}

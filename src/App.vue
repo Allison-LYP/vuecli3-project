@@ -1,7 +1,11 @@
 <template>
   <div id="app">
     <!-- 顶部header区域 -->
-    <mt-header fixed title="Allison's shop"></mt-header>
+    <mt-header fixed title="Allison's shop">
+        <span slot="left" @click="goBack" v-show="flag">
+            <mt-button icon="back">返回</mt-button>
+        </span>
+    </mt-header>
 
     <!-- 中间区域 -->
     <transition>
@@ -58,6 +62,10 @@
 </template>
 
 <style lang="less">
+    *{
+        padding: 0;
+        margin: 0;
+    }
     .v-entry{
         opacity: 0;
         -webkit-transform: translateX(100%);
@@ -106,6 +114,28 @@
 
 <script>
     export default {
-        name: "App"
+        name: "App",
+        data(){
+            return{
+                flag:false  // 默认不展示
+            }
+        },
+        created(){
+          this.flag =   this.$route.path === '/home' ? false:true;
+        },
+        methods:{
+            goBack(){
+                this.$router.go(-1);
+            }
+        },
+        watch:{
+            "$route.path":function (newVal) {
+                if (newVal == '/home'){
+                    this.flag = false;
+                } else {
+                    this.flag = true;
+                }
+            }
+        }
     }
 </script>

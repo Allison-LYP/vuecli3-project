@@ -16,20 +16,20 @@
             <li class="grid-6-item"><router-link to="/home/newsList">
                 <img src="../assets/images/news.png" alt="">
                 <div class="item-title">新闻资讯</div></router-link></li>
-            <li class="grid-6-item"><a href="#">
+            <li class="grid-6-item"><router-link to="/home/photoList">
                 <img src="../assets/images/photo.png" alt="">
-                <div class="item-title">图片分享</div></a></li>
-            <li class="grid-6-item"><a href="#">
+                <div class="item-title">图片分享</div></router-link></li>
+            <li class="grid-6-item"><router-link to="/home/goodsList">
                 <img src="../assets/images/shop.png" alt="">
-                <div class="item-title">商品购买</div></a></li>
+                <div class="item-title">商品购买</div></router-link></li>
             <br>
-            <li class="grid-6-item"><a href="#">
+            <li class="grid-6-item" @click="wait"><a href="#">
                 <img src="../assets/images/message.png" alt="">
                 <div class="item-title">留言反馈</div></a></li>
-            <li class="grid-6-item"><a href="#">
+            <li class="grid-6-item" @click="wait"><a href="#">
                 <img src="../assets/images/movie.png" alt="">
                 <div class="item-title">视频专区</div></a></li>
-            <li class="grid-6-item"><a href="#">
+            <li class="grid-6-item" @click="wait"><a href="#">
                 <img src="../assets/images/contactUs.png" alt="">
                 <div class="item-title">联系我们</div></a></li>
         </ul>
@@ -37,7 +37,8 @@
 </template>
 
 <script>
-    import axios from 'axios';
+    // import axios from 'axios';
+    import { Toast } from 'mint-ui';
 
     export default {
         name: "homeContainer",
@@ -47,10 +48,10 @@
             }
         },
         created(){
-          this.getSwipe()
+          // this.getSwipe()
         },
         methods:{
-            getSwipe(){  // 获取轮播图数据
+            /*getSwipe(){  // 获取轮播图数据
                 axios.get('/test')
                     .then( res => {
                         console.log(res.data);
@@ -59,10 +60,14 @@
                     .catch( error => {
                         console.log(error);
                     })
+            }*/
+            wait(){
+                Toast(' 更多功能等待完善~🙂 💪');
             }
         }
     }
 </script>
+
 <style scoped>
     #swipe{
         height: 200px;
