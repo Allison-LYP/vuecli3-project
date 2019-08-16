@@ -1,29 +1,26 @@
-# vuecli-project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 基于 vue cli3 的购物商城
+## 项目展示
+[VueCli-project](47.102.217.124:8080/vuecli)
+## 项目介绍
+- 整体项目的布局
+    1. 首页
+    2. 会员
+    3. 购物车
+    4. 搜索
+- 新闻资讯模块
+    1. 新闻列表展示
+    2. 点击跳转至新闻源网页
+- 图片分享模块
+    1. 使用mint-ui实现Lazy Load展示图片
+    2. 根据图片的不同类别进行分类展示
+- 商品购买模块
+    1. 实现商品经典双列表的布局
+    2. 展示商品的图片、标题、价格等信息
+    3. 点击商品，进入商品详情模块
+- 商品详情模块
+    1. 显示商品的图片、价格、标题、商品详情等
+    2. 使用 vuex（vue状态管理）来管理保存需要加入购物车的商品id、数量等信息
+- 购物车模块
+    1. 将加入购物车的商品数据保存在localStorage
+    2. 实现改变数量、删除商品等操作，并实时更新本地存储的数据
+    
