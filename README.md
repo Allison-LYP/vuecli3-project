@@ -1,6 +1,6 @@
 # 基于 vue cli3 的购物商城
 ## 项目展示
-[VueCli-project](47.102.217.124:8080/vuecli)
+[vuecli3-project](http://47.102.217.124:8080/vuecli/#/home)
 ## 项目介绍
 - 整体项目的布局
     1. 首页
