@@ -1,6 +1,6 @@
 # 基于 vue cli3 的购物商城
 ## 项目展示
-[vuecli3-project](http://47.102.217.124:8080/vuecli/#/home)
+[vuecli3-project](http://www.tandp.fun/vuecli/#/home)
 > 打开项目后 按下F12键，再按 Ctrl+Shift+m。使用手机模式浏览。
 ## 项目介绍
 - 整体项目的布局
